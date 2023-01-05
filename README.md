@@ -15,5 +15,7 @@
 
 5. friday (from 8:10 am to 2:55pm)
 ---
-Important websites  
+Important websites
 [**SEP**](https://hstatsep.github.io/)
+
+reviewed by Bobby Chan
